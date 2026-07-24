@@ -1,0 +1,24 @@
+# Donnees et artefacts lourds (non versionnes)
+data/
+outputs/
+checkpoints/
+*.pth
+*.pth.tar
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Environnement local
+.env
+.DS_Store
+.vscode/
+.idea/
